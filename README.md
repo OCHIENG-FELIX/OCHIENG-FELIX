@@ -1,12 +1,30 @@
-- 👋 Hi, I’m @OCHIENG-FELIX
-- 👀 I’m interested in ...technology and innovation
-- 🌱 I’m currently learning ...information technology
-- 💞️ I’m looking to collaborate on ...latest innovations and research in technology
-- 📫 How to reach me ...ochiengf267@gmail.com
-- 😄 Pronouns: ...I
-- ⚡ Fun fact: ...A hippo's jaw opens wide enough to fit a sports car inside.
+# Hi, I'm Felix Ochieng 👋
 
-<!---
-OCHIENG-FELIX/OCHIENG-FELIX is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Aspiring Data Scientist from Kenya.
+
+I enjoy transforming raw data into meaningful business insights using Python, SQL, and data visualization.
+
+## Skills
+
+- Python
+- SQL
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+- Git
+- GitHub
+
+## Current Learning
+
+Currently learning SQL for Data Science.
+
+## Portfolio Projects
+
+- Superstore Sales Analysis
+- Hospital No-Show Appointment Analysis
+
+## Contact
+
+LinkedIn:
+Email:ochiengf267@gmail.com
