@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Felix Ochieng
+# Hi there 👋, I'm Felix Otieno Ochieng'
 
 ## Aspiring Data Scientist | Python | SQL (Learning) | Data Analysis | Data Visualization
 
