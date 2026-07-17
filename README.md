@@ -1,33 +1,53 @@
 # Hi there 👋, I'm Felix Otieno Ochieng'
 
-## Aspiring Data Scientist | Python | SQL (Learning) | Data Analysis | Data Visualization
+## Data Analyst | Aspiring Data Scientist
 
-Welcome to my GitHub!
+I am an Information Technology graduate with a passion for transforming raw data into actionable business insights. I enjoy solving real-world business problems using SQL, Python, data visualization, and analytics.
 
-I am an aspiring Data Scientist with a background in Information Technology and a passion for transforming raw data into meaningful insights that support business decision-making. I enjoy solving real-world problems through data analysis, visualization, and storytelling.
-
-I am currently following a structured learning roadmap to become a job-ready Data Scientist by building real-world projects, strengthening my analytical thinking, and continuously improving my technical skills.
+I am currently building an end-to-end Data Science portfolio by completing real-world projects that demonstrate data cleaning, database design, business analysis, dashboard development, and machine learning.
 
 ---
+![Profile Views](https://komarev.com/ghpvc/?username=OCHIENG-FELIX&label=Profile%20Views&color=0e75b6&style=flat) ![GitHub followers](https://img.shields.io/github/followers/OCHIENG-FELIX?label=Followers&style=social) ![GitHub User's stars](https://img.shields.io/github/stars/OCHIENG-FELIX?affiliations=OWNER&style=social) 
 
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
+
+![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge)
+
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=OCHIENG-FELIX&theme=github-dark)
+[![Trophy](https://github-profile-trophy.vercel.app/?username=OCHIENG-FELIX&theme=algolia&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
 # 🚀 About Me
 
 * 🎓 Graduate in Information Technology
-* 📊 Passionate about Data Science and Analytics
-* 🐍 Strong foundation in Python for Data Analysis
-* 📈 Experienced in Exploratory Data Analysis (EDA)
-* 📉 Skilled in creating business-focused visualizations
-* 💻 Building an end-to-end Data Science portfolio on GitHub
-* 🌱 Currently learning **SQL for Data Science**
+* 📊 Passionate about Data Analytics and Data Science
+* 🧩 Experienced in solving business problems using data
+* 💻 Building professional analytics projects with real-world datasets
+* 🌱 Currently expanding my skills in Power BI and Machine Learning
+
 
 ---
 
 # 🛠️ Technical Skills
 
-### Programming Languages
+### Programming & Query Languages
 
 * Python
-* SQL *(Currently Learning)*
+* SQL (SQLite)
 
 ### Data Analysis
 
@@ -39,12 +59,26 @@ I am currently following a structured learning roadmap to become a job-ready Dat
 * Descriptive Statistics
 * Business Insight Generation
 
+### SQL & Database Skills
+
+* Database Design
+* Database Normalization (3NF)
+* SQLite
+* Complex JOINs
+* Common Table Expressions (CTEs)
+* Window Functions
+* Ranking Functions
+* Customer Segmentation
+* Pareto Analysis
+* Time-Series Analysis
+
 ### Data Visualization
 
 * Matplotlib
 * Seaborn
+* Power BI *(Currently Learning)*
 
-### Tools & Technologies
+### Tools
 
 * Jupyter Notebook
 * Git
@@ -52,165 +86,132 @@ I am currently following a structured learning roadmap to become a job-ready Dat
 
 ---
 
-# 📚 Current Learning Roadmap
+# 📚 Learning Journey
 
 ## ✅ Completed
 
 * Python Programming
-* Pandas for Data Analysis
-* Statistics for Data Science
 * NumPy
-* Matplotlib
-* Seaborn
+* Pandas
+* Statistics for Data Science
+* Data Visualization (Matplotlib & Seaborn)
+* SQL Fundamentals
+* Advanced SQL
+* Database Design & Normalization
+* Business Analytics with SQL
 
 ## 🔄 Currently Learning
 
-* SQL for Data Science
+* Power BI
+* Dashboard Design
 
-## ⏳ Upcoming Topics
+## ⏳ Next
 
 * Machine Learning with Scikit-learn
-* Intermediate Data Science
-* Deep Learning
-* Model Deployment (Streamlit & FastAPI)
-* Docker
-* Career Preparation
-
----
-
-# 📊 Portfolio Projects
-
-## 🛒 Superstore Sales Analysis
-
-Business-focused exploratory data analysis of retail sales data.
-
-### Highlights
-
-* Data Cleaning
-* Exploratory Data Analysis
-* Sales Trend Analysis
-* Customer Insights
-* Profitability Analysis
-* Executive Summary
-* Business Recommendations
-* Professional GitHub Documentation
-
----
-
-## 🏥 Hospital No-Show Appointment Analysis
-
-A real-world healthcare analytics project exploring factors associated with missed hospital appointments.
-
-### Project Overview
-
-Hospital appointment no-shows reduce operational efficiency, waste clinical resources, increase waiting times, and raise healthcare costs. This project analyzes historical appointment data to identify patterns associated with missed appointments and provide actionable recommendations to improve attendance.
-
-### Business Problem
-
-Hospital appointment no-shows create significant operational challenges. When patients fail to attend scheduled appointments, valuable clinical time is lost, healthcare resources are underutilized, waiting lists become longer, and operational costs increase.
-
-The objective of this project was to identify factors associated with patient no-shows and generate evidence-based recommendations that support better scheduling and patient engagement.
-
-### Analysis Highlights
-
-* Data Cleaning
-* Feature Engineering
-* Exploratory Data Analysis
-* Statistical Analysis
-* Correlation Analysis
-* Data Visualization
-* Business Recommendations
-* Professional Project Documentation
-
-### Key Findings
-
-* Approximately **30%** of appointments resulted in patient no-shows.
-* Longer waiting times were associated with higher no-show rates.
-* Patients receiving multiple SMS reminders generally showed lower no-show rates.
-* Appointment attendance varied across different days of the week.
-* Patients with alcoholism recorded the highest no-show rate among the medical conditions analyzed.
-* Age alone showed only a weak relationship with appointment attendance.
-
-### Business Recommendations
-
-* Reduce patient waiting times through improved scheduling.
-* Continue strengthening the hospital's SMS reminder program.
-* Investigate barriers affecting patients with consistently high no-show rates.
-* Improve appointment allocation across the week.
-* Monitor attendance trends using data dashboards.
-
----
-
-# 💡 What You'll Find in My Repositories
-
-Each project demonstrates my ability to:
-
-* Clean messy datasets
-* Perform exploratory data analysis
-* Create informative visualizations
-* Extract actionable business insights
-* Communicate findings clearly
-* Write executive summaries
-* Develop business recommendations
-* Organize projects professionally using Git and GitHub
-
----
-
-# 🎯 Career Objective
-
-My goal is to become a professional Data Scientist capable of solving real-world business problems through data.
-
-I am committed to continuously improving my skills in:
-
-* SQL
-* Machine Learning
-* Predictive Analytics
-* Dashboard Development
-* Statistical Analysis
-* Artificial Intelligence
+* Model Evaluation
+* Feature Selection
 * Model Deployment
-
-while building a portfolio that demonstrates practical experience with real-world datasets.
-
----
-
-# 🌱 Currently Working On
-
-* Learning SQL for Data Science
-* Building a professional GitHub portfolio
-* Strengthening analytical and problem-solving skills
-* Preparing for Data Analyst and Data Scientist opportunities
+* Deep Learning
 
 ---
 
 # 📂 Featured Projects
 
-As my portfolio grows, it will include projects such as:
+## 🗄️ SQL Superstore Analytics
 
-* 📊 Superstore Sales Analysis
-* 🏥 Hospital No-Show Appointment Analysis
-* 🗄️ SQL Sales Analysis *(Coming Soon)*
-* 📉 Customer Churn Prediction
-* 🏠 House Price Prediction
-* 👥 Employee Attrition Analysis
-* 📈 Power BI Dashboard
-* 🌐 Streamlit Data Science Application
-* 🤖 Machine Learning Capstone Project
+An end-to-end SQL analytics project built using SQLite.
+
+Highlights:
+
+* Database Normalization (3NF)
+* KPI Reporting
+* Regional Performance Analysis
+* Product Performance Analysis
+* Customer Segmentation
+* Pareto Analysis
+* Discount Analysis
+* Month-over-Month Growth
+* Year-over-Year Growth
+* Moving Average Analysis
+* Seasonality Analysis
+* Business Recommendations
+
+---
+
+## 🏥 Hospital No-Show Appointment Analysis
+
+Healthcare analytics project exploring factors influencing patient appointment attendance.
+
+Highlights:
+
+* Data Cleaning
+* Feature Engineering
+* Exploratory Data Analysis
+* Statistical Analysis
+* Business Insights
+* Executive Recommendations
+
+---
+
+## 📊 Superstore Sales Analysis
+
+Business-focused exploratory data analysis of retail sales using Python.
+
+Highlights:
+
+* Sales Trends
+* Customer Insights
+* Profitability Analysis
+* Executive Reporting
+
+---
+
+## 🚢 Titanic Survival Prediction
+
+Interactive machine learning web application built with Streamlit for predicting passenger survival.
+
+---
+
+# 🎯 Career Objective
+
+My goal is to become a professional Data Scientist capable of designing complete data solutions—from data collection and database design to analytics, visualization, and predictive modeling.
+
+I enjoy transforming complex datasets into insights that support better business decisions.
+
+---
+
+# 🌱 Currently Working On
+
+* Building Power BI Dashboards
+* Expanding my Data Analytics Portfolio
+* Preparing for Data Analyst and Data Scientist opportunities
+
+---
+
+# 📈 What You'll Find in My Repositories
+
+Each project demonstrates my ability to:
+
+* Design relational databases
+* Normalize datasets (3NF)
+* Write advanced SQL queries
+* Clean and analyze data
+* Build insightful visualizations
+* Generate business recommendations
+* Document projects professionally
+* Apply analytics to real-world business scenarios
 
 ---
 
 # 🤝 Let's Connect
 
-* **GitHub:** https://github.com/OCHIENG-FELIX
-* **LinkedIn:** *(Add your LinkedIn profile here when available.)*
-* **Email:** ochiengf267@gmail.com
+[![GitHub](https://img.shields.io/badge/GitHub-OCHIENG--FELIX-181717?style=for-the-badge&logo=github)](https://github.com/OCHIENG-FELIX)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Coming_Soon-0A66C2?style=for-the-badge&logo=linkedin)](#)
+
+[![Email](https://img.shields.io/badge/Email-ochiengf267%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ochiengf267@gmail.com)
 
 ---
 
-# ⭐ Thank You for Visiting
-
-Thank you for taking the time to explore my GitHub profile.
-
-I am passionate about continuous learning and enjoy building projects that transform raw data into meaningful business insights. Feedback, suggestions, and collaboration opportunities are always welcome as I continue growing in the field of Data Science.
-
-*"Without data, you're just another person with an opinion."* — W. Edwards Deming
+> **"Without data, you're just another person with an opinion."**
+> — W. Edwards Deming
