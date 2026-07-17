@@ -1,3 +1,4 @@
+![Profile Views](https://komarev.com/ghpvc/?username=OCHIENG-FELIX&label=Profile%20Views&color=0e75b6&style=flat)   ![GitHub followers](https://img.shields.io/github/followers/OCHIENG-FELIX?label=Followers&style=social)   ![GitHub User's stars](https://img.shields.io/github/stars/OCHIENG-FELIX?affiliations=OWNER&style=social) 
 # Hi there 👋, I'm Felix Otieno Ochieng'
 
 ## Data Analyst | Aspiring Data Scientist
@@ -7,30 +8,10 @@ I am an Information Technology graduate with a passion for transforming raw data
 I am currently building an end-to-end Data Science portfolio by completing real-world projects that demonstrate data cleaning, database design, business analysis, dashboard development, and machine learning.
 
 ---
-![Profile Views](https://komarev.com/ghpvc/?username=OCHIENG-FELIX&label=Profile%20Views&color=0e75b6&style=flat) ![GitHub followers](https://img.shields.io/github/followers/OCHIENG-FELIX?label=Followers&style=social) ![GitHub User's stars](https://img.shields.io/github/stars/OCHIENG-FELIX?affiliations=OWNER&style=social) 
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)  ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge) ![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge) ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)  ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  ![GitHub Streak](https://streak-stats.demolab.com?user=OCHIENG-FELIX&theme=github-dark)
+   
 
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
-
-![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge)
-
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=OCHIENG-FELIX&theme=github-dark)
-[![Trophy](https://github-profile-trophy.vercel.app/?username=OCHIENG-FELIX&theme=algolia&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
 # 🚀 About Me
 
 * 🎓 Graduate in Information Technology
@@ -213,5 +194,8 @@ Each project demonstrates my ability to:
 
 ---
 
-> **"Without data, you're just another person with an opinion."**
-> — W. Edwards Deming
+⭐ *Thank you for visiting my GitHub profile!*
+
+*"Without data, you're just another person with an opinion."*
+
+— W. Edwards Deming
