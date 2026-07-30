@@ -1,11 +1,13 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=OCHIENG-FELIX&label=Profile%20Views&color=0e75b6&style=flat)   ![GitHub followers](https://img.shields.io/github/followers/OCHIENG-FELIX?label=Followers&style=social)   ![GitHub User's stars](https://img.shields.io/github/stars/OCHIENG-FELIX?affiliations=OWNER&style=social) 
 # Hi there 👋, I'm Felix Otieno Ochieng'
 
-## Data Analyst | Aspiring Data Scientist
+## Data Analyst | Power BI Developer | Aspiring Data Scientist
 
 I am an Information Technology graduate with a passion for transforming raw data into actionable business insights. I enjoy solving real-world business problems using SQL, Python, data visualization, and analytics.
 
-I am currently building an end-to-end Data Science portfolio by completing real-world projects that demonstrate data cleaning, database design, business analysis, dashboard development, and machine learning.
+I am currently building an end-to-end Data Analytics and Data Science portfolio through real-world projects that demonstrate data cleaning, database design, business analysis, interactive dashboard development, business intelligence, and machine learning.
+
+My projects combine SQL, Python, and Microsoft Power BI to transform raw data into actionable business insights while following industry best practices in analytics, visualization, and documentation.
 
 ---
 
@@ -18,8 +20,8 @@ I am currently building an end-to-end Data Science portfolio by completing real-
 * 📊 Passionate about Data Analytics and Data Science
 * 🧩 Experienced in solving business problems using data
 * 💻 Building professional analytics projects with real-world datasets
-* 🌱 Currently expanding my skills in Power BI and Machine Learning
-
+* 📈 Experienced in building interactive Power BI dashboards using DAX, Power Query, Star Schema modeling, and Time Intelligence
+* 🌱 Currently expanding my skills in Machine Learning and Predictive Analytics
 
 ---
 
@@ -57,7 +59,23 @@ I am currently building an end-to-end Data Science portfolio by completing real-
 
 * Matplotlib
 * Seaborn
-* Power BI *(Currently Learning)*
+* Microsoft Power BI
+* Interactive Dashboard Design
+* Business Intelligence Reporting
+
+### Business Intelligence
+
+* Star Schema Data Modeling
+* Power Query
+* DAX (Data Analysis Expressions)
+* Time Intelligence
+* KPI Development
+* Drill-through Reports
+* Report Page Tooltips
+* Dynamic Reporting
+* Executive Dashboard Design
+* Performance Optimization
+* Mobile Dashboard Design
 
 ### Tools
 
@@ -80,15 +98,22 @@ I am currently building an end-to-end Data Science portfolio by completing real-
 * Advanced SQL
 * Database Design & Normalization
 * Business Analytics with SQL
+* Microsoft Power BI
+* Power Query
+* Data Modeling (Star Schema)
+* DAX Fundamentals
+* Time Intelligence
+* Executive Dashboard Design
+* Dashboard Performance Optimization
+* Mobile Dashboard Development
 
 ## 🔄 Currently Learning
 
-* Power BI
-* Dashboard Design
+* Machine Learning with Scikit-learn
+* Predictive Analytics
 
 ## ⏳ Next
 
-* Machine Learning with Scikit-learn
 * Model Evaluation
 * Feature Selection
 * Model Deployment
@@ -97,6 +122,30 @@ I am currently building an end-to-end Data Science portfolio by completing real-
 ---
 
 # 📂 Featured Projects
+
+📊 Executive Sales Dashboard (Power BI)
+
+Featured Project ⭐
+
+A professional Business Intelligence solution built with Microsoft Power BI that transforms retail sales data into an interactive executive dashboard for strategic decision-making.
+
+Highlights
+Star Schema Data Model
+Power Query Data Transformation
+Advanced DAX Measures
+Time Intelligence (MTD, YTD, MoM, YoY)
+Executive KPI Dashboard
+Dynamic Dashboard Titles
+Drill-through Reports
+Report Page Tooltips
+Bookmarks & Buttons
+Conditional Formatting
+Dynamic KPI Indicators
+Performance Optimization
+Mobile Dashboard
+Professional Documentation
+Business Insights Report
+Technical DAX Documentation
 
 ## 🗄️ SQL Superstore Analytics
 
@@ -155,21 +204,23 @@ Interactive machine learning web application built with Streamlit for predicting
 
 # 🎯 Career Objective
 
-My goal is to become a professional Data Scientist capable of designing complete data solutions—from data collection and database design to analytics, visualization, and predictive modeling.
+My goal is to become a professional Data Analyst and Data Scientist capable of designing end-to-end data solutions—from data collection and database design to business intelligence, analytics, visualization, and predictive modeling.
 
-I enjoy transforming complex datasets into insights that support better business decisions.
+I enjoy transforming complex datasets into interactive dashboards, meaningful business insights, and data-driven solutions that support strategic decision-making.
 
 ---
 
 # 🌱 Currently Working On
 
-* Building Power BI Dashboards
-* Expanding my Data Analytics Portfolio
-* Preparing for Data Analyst and Data Scientist opportunities
+* Building Machine Learning Projects
+* Expanding my Data Analytics & Business Intelligence Portfolio
+* Preparing for Data Analyst, BI Analyst, and Data Scientist opportunities
 
 ---
 
 # 📈 What You'll Find in My Repositories
+
+Each project demonstrates my ability to:
 
 Each project demonstrates my ability to:
 
@@ -178,10 +229,13 @@ Each project demonstrates my ability to:
 * Write advanced SQL queries
 * Clean and analyze data
 * Build insightful visualizations
+* Build executive Power BI dashboards
+* Design Star Schema data models
+* Develop advanced DAX measures
+* Apply Time Intelligence calculations
 * Generate business recommendations
 * Document projects professionally
 * Apply analytics to real-world business scenarios
-
 ---
 
 # 🤝 Let's Connect
