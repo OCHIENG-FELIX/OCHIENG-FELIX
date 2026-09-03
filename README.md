@@ -140,7 +140,7 @@ An end-to-end Machine Learning application designed to predict customer churn an
 https://github.com/OCHIENG-FELIX/telco_customer-churn-ai
 
 🚀 **Live Application:**  
-https://telcocustomer-churn-ai-7f9yrrjlzgcr6dabkeyrgy.streamlit.app/
+https://ochieng-felix-telco-customer-churn-ai-appapp-qezax4.streamlit.app/
 
 ---
 
