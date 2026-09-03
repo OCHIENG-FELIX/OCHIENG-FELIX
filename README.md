@@ -270,7 +270,7 @@ I am continuing to strengthen my skills through practical projects and expanding
 
 [![GitHub](https://img.shields.io/badge/GitHub-OCHIENG--FELIX-181717?style=for-the-badge&logo=github)](https://github.com/OCHIENG-FELIX)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Coming_Soon-0A66C2?style=for-the-badge&logo=linkedin)](www.linkedin.com/in/felix-ochieng-5147402b4)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-FELIX--OCHIENG-0A66C2?style=for-the-badge&logo=linkedin)](www.linkedin.com/in/felix-ochieng-5147402b4)
 
 [![Email](https://img.shields.io/badge/Email-ochiengf267%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ochiengf267@gmail.com)
 
