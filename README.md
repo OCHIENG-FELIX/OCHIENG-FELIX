@@ -2,11 +2,11 @@
 
 # Hi there 👋, I'm Felix Otieno Ochieng'
 
-## IT Support | Help Desk | Data Analytics | Business Intelligence
+## IT Support | Help Desk | Aspiring Data Scientist | Data Analytics
 
-I am an Information Technology graduate interested in **IT Support, Help Desk operations, technical troubleshooting, Data Analytics, and Business Intelligence**.
+I am an Information Technology graduate and **Aspiring Data Scientist**, with interests in **IT Support, Help Desk operations, technical troubleshooting, Data Analytics, and Machine Learning**.
 
-I enjoy diagnosing technical problems, supporting users, documenting solutions, and using data to generate meaningful business insights. My learning combines hands-on IT support preparation with data analytics and machine learning portfolio projects.
+I enjoy diagnosing technical problems, supporting users, documenting solutions, and applying data analysis and machine learning to solve problems. I am continuously developing my skills through practical IT support, data analytics, and machine learning projects.
 
 **Current focus:** building and validating practical IT support skills across Windows, networking, help desk operations, and Linux system administration.
 
@@ -21,7 +21,8 @@ I enjoy diagnosing technical problems, supporting users, documenting solutions, 
 - 🔧 Building skills in Windows troubleshooting, computer maintenance, and end-user support.
 - 🌐 Studying networking fundamentals, IP configuration, DNS, DHCP, and network diagnostics.
 - 🐧 Developing foundational Linux command-line and system administration skills.
-- 📊 Experienced in building data analytics and business intelligence portfolio projects.
+- 📊 Building data analytics and business intelligence portfolio projects.
+- 🤖 Aspiring Data Scientist developing skills in data analysis, statistics, and machine learning.
 - 🤖 Interested in machine learning and practical data-driven applications.
 - 📍 Based in Kisumu, Kenya.
 
@@ -233,7 +234,7 @@ An interactive machine learning application built with Streamlit to predict pass
 
 I am seeking opportunities in **IT Support, Help Desk, and ICT Support**, where I can apply my Information Technology foundation, troubleshooting approach, user-support skills, and commitment to continuous learning.
 
-I am also interested in **Data Analyst and Business Intelligence opportunities**, where I can use Python, SQL, and Power BI to support data-informed decisions.
+I am also working towards opportunities in **Data Analytics, Business Intelligence, and Data Science**, using Python, SQL, Power BI, statistics, and machine learning to explore data and support informed decisions.
 
 ---
 
@@ -243,7 +244,8 @@ I am also interested in **Data Analyst and Business Intelligence opportunities**
 - Network troubleshooting and configuration
 - Help desk ticket handling and escalation
 - Linux system administration
-- Continued development of data analytics and machine learning projects
+- Data analytics, statistical analysis, and machine learning
+- Developing towards a career as a Data Scientist
 
 ---
 
